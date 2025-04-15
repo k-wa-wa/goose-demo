@@ -1,1 +1,1 @@
-this was written by goose
+Gooseによって記述されました。
