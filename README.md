@@ -1,1 +1,1 @@
-waiting for goose
+Gooseによって記述されました。
